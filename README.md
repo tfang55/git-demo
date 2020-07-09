@@ -1,4 +1,4 @@
 # git-demo
 This is a repository for demo purposes
 
-Tony was here.
+Tony and Nick were here.
